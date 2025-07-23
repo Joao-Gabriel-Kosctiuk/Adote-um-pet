@@ -67,3 +67,28 @@ section#nav > nav > a.adote{
     padding: 15px 20px;
     border-radius: 20px;
 }
+
+/*Main*/
+
+section#propaganda{
+    background-color: #faae22;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+div.conteudo-propaganda{
+    width: 300px;
+    margin-left: 10%;
+}
+div.conteudo-propaganda > h1{
+    color: white;
+    margin-bottom: 30px;
+}
+div.conteudo-propaganda > a.propaganda-adote{
+    color: #faae22;
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 20px;
+}
